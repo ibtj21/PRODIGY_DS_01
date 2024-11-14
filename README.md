@@ -2,16 +2,16 @@ ___
 # PRODIGY_DS_01
 ### Distribution of Categorical and Continuous Variables - Visualization
 # Table of Contents
-1. [Description](#description)
-2. [Overview](#overview)
-3. [Data Source](#data-source)
-4. [Installation](#installation)
-5. [Usage](#usage)
+- [Description](#description)
+- [Overview](#overview)
+- [Data Source](#data-source)
+- [Installation](#installation)
+- [Usage](#usage)
     - [Data Preprocessing and Analysis](#data-preprocessing-and-analysis)
     - [Visualization and Interpretation](#visualization-and-interpretation)
-6. [Contributors](#contributors)
-7. [Contributing](#contributing)
-8. [License](#license)
+- [Contributors](#contributors)
+- [Contributing](#contributing)
+- [License](#license)
 
 ___
 ## Description
