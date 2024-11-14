@@ -15,36 +15,59 @@ ___
 The dataset used in this project is the [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset) available on Kaggle.
 ___
 ## Installation
-Ensure the following libraries are installed before running the code:
-```bash
-pip install pandas seaborn matplotlib plotly
-```
+
+To get started with the project, follow these steps:
+
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/ibtj21/PRODIGY_DS_01.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd PRODIGY_DS_01
+    ```
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+The `requirements.txt` file includes the following dependencies:
+
+- pandas
+- plotly
+- seaborn
+- matplotlib
+___
 
 ## Usage
-To visualize the dataset, follow these steps:
+
 1. Load the dataset into a pandas DataFrame.
 2. Clean the dataset by removing duplicates and unnecessary columns.
-3. Generate the visualizations as outlined below.
+3. Visualize categorical and continuous variables, focusing on insights from gender, marital status, age, and weekly work hours.
 
-## Data Preprocessing and Analysis
-1. **Data Cleaning**: Remove duplicate entries to ensure accuracy.
-2. **Subset Selection**: Focus on `sex`, `marital-status`, `age`, and `hours-per-week` for targeted analysis.
+### Data Preprocessing and Analysis
+- **Data Cleaning**: Remove duplicates to ensure data accuracy.
+- **Subset Selection**: Focus on `sex`, `marital-status`, `age`, and `hours-per-week` for targeted analysis.
 
-## Visualization and Interpretation
-
-### 1. Distribution of Categorical Variables
-- **Gender Distribution**: Bar charts using seaborn and plotly show the proportion of males to females, highlighting a higher representation of males.
-- **Marital Status Distribution**: Visualizations reveal the most common marital statuses, with "married-civ-spouse" and "never-married" being the largest groups.
-
-### 2. Distribution of Continuous Variables
-- **Age Distribution**: Histograms show a predominance of individuals in their 20s to 40s, tapering off in older age groups.
-- **Hours-Per-Week Distribution**: Analysis reveals common work-hour ranges, showing peak distributions around the standard 40-hour workweek.
-
+### Visualization and Interpretation
+1. **Categorical Variables**: Visualize gender and marital status distributions using bar charts.
+2. **Continuous Variables**: Analyze age and hours-per-week distributions using histograms and other plots.
+___
 ## Contributors
-- [Your Name]
-
+- Hanna Hailemarima Gashaw
+___
 ## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
+Contributions are welcome! To contribute:
+
+- Fork the repository.
+- Create a new branch (e.g., `feature/your-feature`).
+- Commit your changes.
+- Submit a pull request.
+
+Ensure your changes align with the project's coding standards.
+___
 
 ## License
 This project is licensed under the MIT License.
