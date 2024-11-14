@@ -1,7 +1,18 @@
 ___
 # PRODIGY_DS_01
 ### Distribution of Categorical and Continuous Variables - Visualization
-Table of Contents
+# Table of Contents
+1. [Description](#description)
+2. [Overview](#overview)
+3. [Data Source](#data-source)
+4. [Installation](#installation)
+5. [Usage](#usage)
+    - [Data Preprocessing and Analysis](#data-preprocessing-and-analysis)
+    - [Visualization and Interpretation](#visualization-and-interpretation)
+6. [Contributors](#contributors)
+7. [Contributing](#contributing)
+8. [License](#license)
+
 ___
 ## Description
 This project focuses on visualizing the distribution of categorical and continuous variables in the Adult (Census Income) dataset. Variables such as gender, marital status, age, and weekly work hours are highlighted, and insights about demographic and socio-economic trends in the dataset are uncovered through these visualizations.
@@ -70,4 +81,5 @@ Ensure your changes align with the project's coding standards.
 ___
 
 ## License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ibtj21/PRODIGY_DS_01/blob/main/LICENSE) file for more details.
