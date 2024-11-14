@@ -81,5 +81,4 @@ Ensure your changes align with the project's coding standards.
 ___
 
 ## License
-## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ibtj21/PRODIGY_DS_01/blob/main/LICENSE) file for more details.
